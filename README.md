@@ -1,2 +1,2 @@
 # ICO-KYC
-ICO-KYC is for KYC process in ICO
+ICO-KYC is for KYC process on ICO
